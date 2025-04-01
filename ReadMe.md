@@ -13,16 +13,20 @@ Illustration of an advanced, end-to-end pipeline that forecasts product demand i
 
 ## Timeline & Milestones (8 Weeks)
 
-**Week 1–2:**
+1. **Week 1–2:**
 Project planning, literature review on demand forecasting and inventory optimization.
 Data exploration and pipeline design.
-**Week 3–4:**
+
+2. **Week 3–4:**
 Build the ETL pipeline and simulate streaming data.
 Implement baseline forecasting models.
-**Week 5–6:**
+
+3. **Week 5–6:**
 Develop advanced forecasting models and integrate inventory optimization.
 Begin dashboard prototyping.
-**Week 7:**
+
+4. **Week 7:**
 Fine-tune models, perform backtesting, and finalize dashboard design.
-**Week 8:**
+
+5. **Week 8:**
 Prepare the final report, documentation, and presentation materials.
